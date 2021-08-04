@@ -80,7 +80,7 @@ die das Admin Leben versüßen:
 
 6) ssh-certinfo: Zeigt an, ob und wie lange SSH Zertifikate (nicht PublicKeys) noch gültig sind.
 
-   (Damit kann man z.B. monitoren, ob Keys erneuert werden müssen.)
+   (Damit kann man z.B. monitoren, ob SSH Zertifikate erneuert werden müssen.)
 
 7) ssh-force-password: Erzwingt bei PubKey Authentifizierung die Passwort Abfrage
 
