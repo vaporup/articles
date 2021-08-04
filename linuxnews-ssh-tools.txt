@@ -72,7 +72,7 @@ die das Admin Leben versüßen:
 
   ( z.b. Welche Distro ist installiert )
 
-4) ssh-hostkeys: Die Fingerprint der HostKeys in verschiedenen Formaten ausgeben
+4) ssh-hostkeys: Die Fingerprints der HostKeys in verschiedenen Formaten ausgeben
 
 5) ssh-keyinfo: SSH PublicKeys in verschiedenen Formaten ausgeben
 
