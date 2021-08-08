@@ -72,7 +72,7 @@ die das Admin Leben versüßen:
 
   ( z.b. Welche Distro ist installiert )
 
-4) ssh-hostkeys: Die Fingerprint der HostKeys in verschiedenen Formaten ausgeben
+4) ssh-hostkeys: Die Fingerprints der HostKeys in verschiedenen Formaten ausgeben
 
 5) ssh-keyinfo: SSH PublicKeys in verschiedenen Formaten ausgeben
 
@@ -93,7 +93,7 @@ können aber auch direkt von Github runtergeladen und ausgeführt werden.
 
 ## Links
 
-[1] https://en.wikipedia.org/wiki/KISS_principle
+[1] https://de.wikipedia.org/wiki/KISS-Prinzip
 [2] https://github.com/vaporup/ssh-tools
 [3] https://github.com/vaporup/CISS
 [4] https://repology.org/project/ssh-tools/versions
