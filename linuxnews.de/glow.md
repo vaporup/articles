@@ -20,13 +20,13 @@ das dem Ganzen noch einen schicken **Charm** verleiht.
 
 ## Benutzung
 
-### Im Terminal mal schnell eine Markdown anschauen
+### Markdown anschauen
 
 ```
 glow README.md
 ````
 
-### Im Terminal mal schnell eine Markdown anschauen (mit Pager)
+### Markdown anschauen (mit Pager)
 
 ```
 glow -p README.md
@@ -40,8 +40,7 @@ glow
 
 ## Installation
 
-Für einige Distros gibt es schon [Pakete](https://repology.org/project/glow/versions),  
-glow lässt sich aber einfach [runterladen](https://github.com/charmbracelet/glow/releases),  
+Für einige Distros gibt es schon [Pakete](https://repology.org/project/glow/versions), glow lässt sich aber einfach [runterladen](https://github.com/charmbracelet/glow/releases),  
 da es (wie von Go und Rust gewohnt) nur eine einzige Binärdatei ist.  
 
 Das Github Repo hat auch fertige Distro Pakte (Deb, rpm, apk), die man nutzen kann.
