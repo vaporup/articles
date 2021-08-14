@@ -1,10 +1,10 @@
 # glow - Der pfiffige CLI Markdown Viewer
 
-Wer z.B. viel mit Markdown Dateien auf Github/Gitlab arbeitet,
-möchte nicht immer zuerst Pushen um zu merken,
-dass die Äinderungen nicht so aussehen, wie man sich das gedacht hat.
+Wer z.B. viel mit Markdown Dateien auf Github/Gitlab arbeitet,  
+möchte nicht immer zuerst Pushen um zu merken,  
+dass die Änderungen nicht so aussehen, wie man sich das gedacht hat.
 
-Grafische Markdown Viewer und Editoren gibt es mittlerweile viele.
+Grafische Markdown Viewer und Editoren gibt es mittlerweile viele.  
 Für die CLI fällt die Auswahl schon etwas geringer aus.
 
 Neben [grip](https://github.com/joeyespo/grip) und [mdless](https://github.com/ttscoff/mdless)
@@ -40,10 +40,9 @@ glow
 
 ## Installation
 
-Für einige Distros gibt es schon [Pakete](https://repology.org/project/glow/versions),
-glow lässt sich aber einfach [runterladen](https://github.com/charmbracelet/glow/releases), da es (wie von Go und Rust gewohnt) nur eine
-einzige Binärdatei ist. Das Github Repo hat auch fertige Distro Pakte (Deb, rpm, apk),
-die man nutzen kann.
+Für einige Distros gibt es schon [Pakete](https://repology.org/project/glow/versions),  
+glow lässt sich aber einfach [runterladen](https://github.com/charmbracelet/glow/releases),  
+da es (wie von Go und Rust gewohnt) nur eine einzige Binärdatei ist.  
 
-
+Das Github Repo hat auch fertige Distro Pakte (Deb, rpm, apk), die man nutzen kann.
 
