@@ -9,7 +9,7 @@ Für die CLI fällt die Auswahl schon etwas geringer aus.
 
 Neben [grip](https://github.com/joeyespo/grip) und [mdless](https://github.com/ttscoff/mdless)
 gibt es noch das pfiffige [glow](https://github.com/charmbracelet/glow)
-das dem Ganzen noch einen schicken **Charm** verleiht.
+das dem Ganzen noch einen schicken [Charm](https://charm.sh) verleiht.
 
 ## Features
 
