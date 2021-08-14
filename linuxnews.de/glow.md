@@ -1,6 +1,6 @@
 # glow - Der pfiffige CLI Markdown Viewer
 
-Wer z.B. viel mit Markdown Dateien auf Github/Gitlab arbeitet,  
+Wer viel mit Markdown Dateien ( z.B. auf Github/Gitlab) arbeitet,  
 möchte nicht immer zuerst Pushen um zu merken,  
 dass die Änderungen nicht so aussehen, wie man sich das gedacht hat.
 
