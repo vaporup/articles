@@ -44,7 +44,7 @@ rport besteht aus folgenden Komponenten:
 - API mit CLI oder Webinterface nutzbar (optional)
 
 Verwendet wird das Port Forwarding Konzept aus SSH,  
-man benutzt dazu aber nicht den lokalen SSH Client sondern die SSH Library in Go.
+genutzt wird dazu aber nicht der lokalen SSH Client sondern die SSH Library in Go.
 
 Der Server ist die zentrale Anlaufstelle für die Clients,  
 die auch hinter Routern stehen können.
