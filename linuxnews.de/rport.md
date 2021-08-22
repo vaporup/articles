@@ -47,9 +47,8 @@ Verwendet wird das Port Forwarding Konzept aus SSH,
 genutzt wird dazu aber nicht der lokale SSH Client sondern die SSH Library in Go.
 
 Der Server ist die zentrale Anlaufstelle für die Clients,  
-die auch hinter Routern stehen können.
-
-Clients bauen über HTTP eine Verbindung auf, über die dann SSH gesprochen wird.  
+die auch hinter Routern stehen können.  
+Diese bauen über HTTP eine Verbindung auf, über die dann SSH gesprochen wird.  
 Über diese SSH Verbindung kann der Server den Client dann steuern,  
 beispielsweise welcher Port wohin weitergeleitet werden soll.
 
