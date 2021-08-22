@@ -7,18 +7,16 @@ für einzelne Systeme oder Ports, ein Forwarding.
 Für Letzteres z.B. den Router oder ein Werkzeug wie SSH,  
 wobei OpenSSH schon seit längerem auch komplette Netze tunneln kann...
 
-Ein Port Fowarding im Router möchte oder kann man vielleicht nicht einrichten.  
-Ein VPN für 1 oder 2 Systeme  Overkill  
-oder macht potentiell zuviel des eigenen Netzes erreichbar.
+Ein Port Fowarding im Router möchte oder kann man vielleicht nicht einrichten,
+ein VPN für ein oder zwei Systeme w#re Overkill oder macht potentiell zuviel des eigenen Netzes erreichbar.
 
 Für den spontanten Zugriff strickt sich der versierte Anwender  
-mal kurz was mit SSH Forwarding zurecht.
+mal kurz was mit SSH zurecht.
 
 Soll das aber dauerhaft und robust laufen, muss man zu Tools wie [autossh](https://www.harding.motd.ca/autossh/) oder [sidedoor](https://github.com/daradib/sidedoor) greifen  
 oder baut sich mit systemd Housemitteln selbst etwas.
 
-Diese funktionieren für ihre Domäne sehr passabel,  
-haben jedoch alle ihre kleineren Nachteile.
+Diese funktionieren für ihre Domäne sehr passabel, haben jedoch alle ihre kleineren Nachteile.
 
 ## Einschränkungen
 
