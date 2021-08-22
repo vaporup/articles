@@ -30,7 +30,7 @@ Diese funktionieren für ihre Domäne sehr passabel, haben jedoch alle ihre klei
 Hier tritt nun [rport](https://oss.rport.io/) auf den Plan und möchte dies auf das nächste Level heben.  
 
 Die Entwickler von rport haben erkannt (wie auch die PowerShell Macher),  
-dass wir heterogene statt Insel Lösungen brauchen.
+dass heutzutage heterogene statt Insel Lösungen gebraucht werden.
 
 rport wurde daher bewusst in Go geschrieben damit eine Binärdatei hinten rausfällt,  
 die auf so vielen Platformen wie möglich einfach gestartet werden kann.  
