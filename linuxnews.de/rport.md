@@ -66,7 +66,7 @@ oder automatisiert Tunnel zu erstellen.
 
 Das Projekt bietet einige Mechanismen an um die Tunnel abzusichern.  
 z.B. lassen sich ACLs setzen, damit auf ein Zielsystem nur bestimmte Clients dürfen,  
-über Gruppen den Zugriff einschränken oder auch Befehle filtern, die auf Zielsystemen ausgeführt werden dürfen.
+über Gruppen den Zugriff einschränken oder auch Befehle filtern, die auf Zielsystemen nicht ausgeführt werden dürfen.
 
 # Dokumentation
 
