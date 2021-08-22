@@ -56,7 +56,7 @@ Für Windows Systeme kann sogar die PowerShell verwendet werden.
 
 # Management
 
-Der Server beinhaltet eine API, die auch vom eingebauten Webinterface genutzt wird  
+Der Server beinhaltet eine API, die auch vom eingebauten Webinterface genutzt wird,  
 in dem man eine Übersicht aller Clients, den Tunneln sowie weitere Metadaten vorfindet.
 
 Das Webinterface unterstützt den Anwender auch damit,  
