@@ -76,7 +76,7 @@ z.B. lassen sich ACLs setzen, damit auf ein Zielsystem nur bestimmte Clients dü
 
 # Dokumentation
 
-Das war nur ein kurzer Abriss, mehr Info und Möglichkeiten findet man in der Dokumentation
+Mehr Info und Möglichkeiten findet man in der Dokumentation
 
 - https://oss.rport.io/docs/
 - https://kb.rport.io/
