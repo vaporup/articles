@@ -14,7 +14,7 @@ Für den spontanten Zugriff strickt sich der versierte Anwender
 mal kurz was mit SSH zurecht.
 
 Soll das aber dauerhaft und robust laufen, muss man zu Tools wie [autossh](https://www.harding.motd.ca/autossh/) oder [sidedoor](https://github.com/daradib/sidedoor) greifen  
-oder baut sich mit systemd Housemitteln selbst etwas.
+oder baut sich mit systemd Hausmitteln selbst etwas.
 
 Diese funktionieren für ihre Domäne sehr passabel, haben jedoch alle ihre kleineren Nachteile.
 
