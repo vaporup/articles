@@ -12,7 +12,6 @@ ein VPN für ein oder zwei Systeme wäre Overkill oder macht potentiell zuviel d
 
 Für den spontanten Zugriff strickt sich der versierte Anwender  
 mal kurz was mit SSH zurecht.
-
 Soll das aber dauerhaft und robust laufen, muss man zu Tools wie [autossh](https://www.harding.motd.ca/autossh/) oder [sidedoor](https://github.com/daradib/sidedoor) greifen  
 oder baut sich mit systemd Hausmitteln selbst etwas.
 
@@ -41,12 +40,12 @@ rport besteht aus folgenden Komponenten:
 
 - Server
 - Client
-- API mit CLI oder Webinterface nutzbar (optional)
+- API - mit CLI oder Webinterface nutzbar (optional)
 
 Verwendet wird das Port Forwarding Konzept aus SSH,  
 genutzt wird dazu aber nicht der lokale SSH Client sondern die SSH Library in Go.
 
-Der Server ist die zentrale Anlaufstelle für die Clients,die auch hinter Routern stehen können.  
+Der Server ist die zentrale Anlaufstelle für die Clients, die auch hinter Routern stehen können.  
 Diese bauen über HTTP eine Verbindung auf, über die dann SSH gesprochen wird.  
 Über diese SSH Verbindung kann der Server den Client dann steuern,  
 beispielsweise welcher Port wohin weitergeleitet werden soll.
