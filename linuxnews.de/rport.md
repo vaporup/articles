@@ -14,9 +14,7 @@ Für den spontanen Zugriff strickt sich der versierte Anwender mal kurz was mit 
 Soll das aber dauerhaft und robust laufen, muss man zu Tools wie [autossh](https://www.harding.motd.ca/autossh/) oder [sidedoor](https://github.com/daradib/sidedoor) greifen  
 oder baut sich mit systemd Hausmitteln selbst etwas.
 
-Diese funktionieren für ihren Anwendungs-Bereich sehr passabel, haben jedoch alle ihre kleineren Einschränkungen.
-
-## Einschränkungen
+Diese funktionieren für ihren Anwendungs-Bereich sehr passabel, haben jedoch alle ihre kleineren Einschränkungen:
 
 - mehrere Tunnel nicht möglich oder umständlich einzurichten
 - kein komfortables Management der Tunnel  
