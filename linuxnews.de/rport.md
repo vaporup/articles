@@ -53,8 +53,8 @@ Clients bauen über HTTP eine Verbindung auf, über die dann SSH gesprochen wird
 Über diese SSH Verbindung kann der Server den Client dann steuern,  
 beispielsweise welcher Port wohin weitergeleitet werden soll.
 
-Es lassen sich aber auch CLI Programme oder Skripte ausführen falls das Zielsystem dies unterstützt.
-Bei Windows Systemen kann sogar die PowerShell verwendet werden.
+Es lassen sich aber auch CLI Programme oder Skripte ausführen falls das Zielsystem dies unterstützt.  
+Für Windows Systeme kann sogar die PowerShell verwendet werden.
 
 # Management
 
