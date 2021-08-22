@@ -4,7 +4,7 @@ Möchte man komplette Netze verbinden,
 nimmt man in der Regel eine VPN Lösung,  
 für einzelne Systeme oder Ports, ein Forwarding.
 
-Für Letzteres z.B. den Router oder ein Werkzeug wie SSH,
+Für Letzteres z.B. den Router oder ein Werkzeug wie SSH,  
 wobei OpenSSH schon seit längerem auch komplette Netze tunneln kann...
 
 Ein Port Fowarding im Router möchte oder kann man vielleicht nicht einrichten.  
