@@ -20,7 +20,7 @@ Diese funktionieren für ihre Domäne sehr passabel, haben jedoch alle ihre klei
 
 ## Einschränkungen
 
-- teilweise mehrere Tunnel nur über Umwege möglich  
+- mehrere Tunnel nicht möglich oder umständlich einzurichten
 - kein komfortables Management der Tunnel  
 - keine Übersicht der Tunnel und deren Zustände  
 - nicht für alle Betriebssysteme verfügbar ( systemd z.B. Linux-only )  
