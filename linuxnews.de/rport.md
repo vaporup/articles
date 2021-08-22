@@ -1,11 +1,11 @@
 # rport - Der TCP Tunnelbauer
 
 Möchte man komplette Netze verbinden,
-nimmt man in der Regel eine VPN Lösung.  
+nimmt man in der Regel eine VPN Lösung,  
+für einzelne Systeme oder Ports, ein Forwarding.
 
-Für einzelne Systeme oder Ports ein Forwarding  
-z.B. innerhalb des Routers oder ein Werkzeug wie SSH.
-Wobei letzteres schon seit längerem auch komplette Netze tunneln kann.
+Für Letzteres z.B. das Forwarding innerhalb des Routers oder ein Werkzeug wie SSH,
+wobei OpenSSH schon seit längerem auch komplette Netze tunneln kann...
 
 Ein Port Fowarding im Router möchte oder kann man vielleicht nicht einrichten.  
 Ein VPN für 1 oder 2 Systeme  Overkill  
