@@ -16,7 +16,7 @@ mal kurz was mit SSH zurecht.
 Soll das aber dauerhaft und robust laufen, muss man zu Tools wie [autossh](https://www.harding.motd.ca/autossh/) oder [sidedoor](https://github.com/daradib/sidedoor) greifen  
 oder baut sich mit systemd Hausmitteln selbst etwas.
 
-Diese funktionieren für ihre Domäne sehr passabel, haben jedoch alle ihre kleineren Nachteile.
+Diese funktionieren für ihren Anwendungs-Bereich sehr passabel, haben jedoch alle ihre kleineren Nachteile.
 
 ## Einschränkungen
 
