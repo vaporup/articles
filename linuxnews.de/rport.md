@@ -10,8 +10,7 @@ wobei OpenSSH schon seit längerem auch komplette Netze tunneln kann...
 Ein Port Fowarding im Router möchte oder kann man vielleicht nicht einrichten,  
 ein VPN für ein oder zwei Systeme wäre Overkill oder macht potentiell zuviel des eigenen Netzes erreichbar.
 
-Für den spontanten Zugriff strickt sich der versierte Anwender  
-mal kurz was mit SSH zurecht.  
+Für den spontanten Zugriff strickt sich der versierte Anwender mal kurz was mit SSH zurecht.  
 Soll das aber dauerhaft und robust laufen, muss man zu Tools wie [autossh](https://www.harding.motd.ca/autossh/) oder [sidedoor](https://github.com/daradib/sidedoor) greifen  
 oder baut sich mit systemd Hausmitteln selbst etwas.
 
