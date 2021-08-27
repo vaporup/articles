@@ -137,7 +137,7 @@ weil in der Bewerbung der Satz stand: "Kommandozeile bevorzugt" (er war auch ein
 ## Hey, dich kenn ich doch
 
 Nachdem mich die Firma einstellte, stand ein paar Monate später
-jemand an meiner Tür und fragte nach dem Team-Leiter.
+jemand an meiner Büro-Tür und fragte nach dem Team-Leiter.
 
 Als ich ihn anschaute, meinte ich nur "Hey, dich kenn ich doch. Du bist doch bei Ubuntu".
 
