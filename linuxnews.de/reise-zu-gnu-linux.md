@@ -41,7 +41,7 @@ zum Bewerbungsgespräch eingeladen wurde (damals kannte ich noch nicht "Das IT-K
 
 Während ich im ganzen Dorf jedem half seine DOS Start-Dateien zu optimieren
 damit Spiele flüssiger laufen bzw. überhaupt starten,  
-machte ich alle aufkommenden Windows Versionen ab 3.11 bis Windows 95 mit,  
+machte ich alle aufkommenden Windows Versionen ab 3.11 bis Windows 95 mit,
 bis es Zeit wurde mir einen Ausbildungsplatz zu suchen.
 
 Zu dem Zeitpunkt waren die Fachinformatiker Berufe gerade erst am entstehen
