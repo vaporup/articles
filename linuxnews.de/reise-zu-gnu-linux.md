@@ -132,10 +132,8 @@ betrat dann das Zimmer zuerst der IT Leiter, der **oha**, wie es der Zufall mal 
 
 Er hatte mich ebenfalls erkannt und so entspannte sich das Bewerbungsgespräch sofort.
 
-Der Team-Leiter, der dabei war, hat mir später noch gesagt,
-er hatte mich eigentlich nur eingeladen weil in der Bewerbung stand:
-
-"Kommandozeile bevorzugt" - Er war auch ein Terminal Liebhaber.
+Der Team-Leiter, der dabei war, hat mir später noch gesagt,  
+er hatte mich eigentlich nur eingeladen weil in der Bewerbung stand: "Kommandozeile bevorzugt" (er war auch ein Terminal Liebhaber).
 
 ## Hey, dich kenn ich doch
 
