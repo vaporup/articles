@@ -3,14 +3,16 @@
 ## Anfänge
 
 Meine Reise zu GNU/Linux begann, als mir meine Mutter einen [Schneider PC](https://retroport.de/schneider-cpc-serie/)
-auf den Tisch stellte. Sie musste geahnt haben, dass hier ein SysAdmin-by-Nature heranwuchs.
+auf den Tisch stellte.  
+Sie musste geahnt haben, dass hier ein SysAdmin-by-Nature heranwuchs.
 
 Der PC kam mit einem gedruckten Handbuch, in dem u.a. BASIC Programme standen, die geometrische Figuren auf dem Bildschirm malten.
 Hier machte ich die ersten Programmiererfahrungen durch Anpassen von Werten (leider musste man den ganzen Code manuell vom Buch abtippen).
 
-Spiele gab es auf Audio-Kassette, die jedoch sehr lange laden mussten :-)
+Spiele gab es auf Audio-Kassette, die jedoch sehr lange laden mussten :-)  
 Die Kassette mit den besten Spielen hat mein Kumpel dann mal versehentlich beim Steinehüpfen
-in den See entsorgt. War dafür aber der beste Wurf...
+in den See entsorgt.  
+War dafür aber der beste Wurf...
 
 ## Grundsteine
 
