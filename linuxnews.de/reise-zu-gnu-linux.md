@@ -33,9 +33,7 @@ Hat zwar ein paar Tage gedauert, aber so lernte man, Systeme zu fixen...
 
 Die Kommandozeile hatte mich schon in MS-DOS sehr fasziniert
 (vor allem die ganzen Komprimierungsprogramme wie ARJ und wie sie alle hießen)
-und die Liebe zum Terminal war dann auch später der Einstieg zu Linux
-sowie der ersten Admin Stelle, da ich nur wegen dem Satz "Kommandozeile bevorzugt"
-zum Bewerbungsgespräch eingeladen wurde (damals kannte ich noch nicht "Das IT-Karrierehandbuch").
+und die Liebe zum Terminal war dann auch später der Einstieg zu Linux sowie der ersten Admin Stelle.
 
 ## Zwischenstationen
 
@@ -132,7 +130,7 @@ betrat dann das Zimmer zuerst der IT Leiter, der **oha**, wie es der Zufall mal 
 
 Er hatte mich ebenfalls erkannt und so entspannte sich das Bewerbungsgespräch sofort.
 
-Der Team-Leiter, der dabei war, hat mir später noch gesagt, dass er mich eigentlich nur eingeladen hatte,  
+Der Team-Leiter, der dabei war, hat mir später noch gesagt, dass er mich eigentlich nur eingeladen hatte (damals kannte ich noch nicht "Das IT-Karrierehandbuch"),  
 weil in der Bewerbung 1 Satz stand: "Kommandozeile bevorzugt" (er war auch ein Terminal Liebhaber).
 
 ## Hey, dich kenn ich doch
