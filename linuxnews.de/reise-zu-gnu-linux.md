@@ -130,7 +130,8 @@ betrat dann das Zimmer zuerst der IT Leiter, der **oha**, wie es der Zufall mal 
 
 Er hatte mich ebenfalls erkannt und so entspannte sich das Bewerbungsgespräch sofort.
 
-Der Team-Leiter, der dabei war, hat mir später noch gesagt, dass er mich eigentlich nur eingeladen hatte (damals kannte ich noch nicht "Das IT-Karrierehandbuch"),  
+Der Team-Leiter, der dabei war, hat mir später noch gesagt, dass er mich eigentlich  
+nur eingeladen hatte (damals kannte ich noch nicht "Das IT-Karrierehandbuch"),  
 weil in der Bewerbung 1 Satz stand: "Kommandozeile bevorzugt" (er war auch ein Terminal Liebhaber).
 
 ## Hey, dich kenn ich doch
