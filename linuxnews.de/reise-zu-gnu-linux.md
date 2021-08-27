@@ -86,51 +86,49 @@ aber es bootete ein komplettes Linux System mit Enlightenment als Oberfläche un
 Nach ca. 6 Monaten Gentoo sowie viel Lesen und Ausprobieren, ergab sich, wie es der Zufall so will,
 eine Ausbildungstelle zum Fachinformatiker in der Firma des Debian Nachbarns.
 
-Eigentlich wollte ich ja schon immer in der IT arbeiten, also Challenge accepted:
+Eigentlich wollte ich ja schon immer in der IT arbeiten, also: **Challenge accepted**
 
-Während ich im Tagesgeschäft immer besser wurde, kaputte Windows Desktops und Server zu fixen [Danke Mark Russinovich](https://docs.microsoft.com/de-de/sysinternals/downloads/sysinternals-suite),
+Während ich im Tagesgeschäft immer besser wurde, kaputte Windows Desktops und Server zu fixen [Danke Mark Russinovich](https://docs.microsoft.com/de-de/sysinternals/downloads/sysinternals-suite),  
 oder Kunden half einen VDR zu Hause einzurichten,
 lief nachts die Linux Weiterbildung im dunklen Keller des Nachbarn.
 
-Zu der Zeit gab es noch kein Astaro, pfSense und wie sie alle heißen
+Zu der Zeit gab es noch kein Astaro, pfSense und wie sie alle heißen  
 und daher wurde in vielen Nächten das eigene Router System für Kunden konzipiert.
 
 Dazu musste aber erstmal viel Gelesen und gewurschtelt werden.
 
-Viele Nächte bestanden nur aus Man-Page zu iptables oder Mailinglisten wie man PPPoE robuster macht lesen.
+Viele Nächte bestanden nur aus Man-Page zu iptables oder Mailinglisten wie man PPPoE robuster macht lesen.  
 Viele Tage gingen sogar allein dafür drauf, dem qmail SMTP-AUTH beizubringen...
 
-Hier hatte ich vieles zu Linux gelernt, aber auch wie wichtig Pragmatismus ist.
+Hier hatte ich vieles zu Linux gelernt, aber auch wie wichtig Pragmatismus ist.  
 Die übertriebenen Sicherheitsvorstellungen des Projektleiters waren für das Produkt leider sehr kontraproduktiv...
 
-Parallel lernte ich nicht nur Linux sondern auch die komplette Geschichte dahinter
+Parallel lernte ich nicht nur Linux sondern auch die komplette Geschichte dahinter  
 und zwar die mit Stallman, GNU, etc statt nur den kleinen Teil von Linus Torvalds.
 
-Das bewegte mich auch dazu eine Linux User Group in der Nähe aufzusuchen.
+Das bewegte mich auch dazu eine Linux User Group in der Nähe aufzusuchen.  
 Den Gründer der LUG sollte ich später nochmal treffen.
 
 Mittlerweile war ich in Debian relativ fit und Ubuntu erblickte das Licht der Welt.
 
-Interessant war eine Video Reihe von Ubuntu Mitgliedern, eine Art FrOSCon,
-in dem sich einige persönlich vorstellten.
-Einer davon blieb mir sehr in Erinnerung, und sollte ihn später ebenfalls nochmal treffen.
+Interessant war eine Video Reihe von Ubuntu Mitgliedern, eine Art FrOSCon, in dem sich einige persönlich vorstellten.  
+Einer davon blieb mir sehr in Erinnerung, und auch ihn sollte ich später ebenfalls nochmal treffen.
 
 ## Zu den Profis
 
-Der Arbeitskraftnehmer hat mich und alle anderen Azubis nach der Ausbildung dann entsorgt,
-sodass ich für kurze Zeit nochmal zu Daimler CNC-Fräsen bin.
+Der Arbeitskraftnehmer hat mich und alle anderen Azubis nach der Ausbildung dann entsorgt,  
+sodass ich für kurze Zeit nochmal zu Daimler bischen CNC-Fräsen bin.
 
-In der Mittagspause las ich dann Bücher wie "Backup Tools for Linux"
-und Kollegen kommentierten mit rümpfender Nase nur "Brauch man sowas?".
+In der Mittagspause las ich dann Bücher wie "Backup Tools for Linux"  
+und Kollegen kommentierten dies nur mit rümpfender Nase: "Brauch man sowas?".
 
 Mit der Antwort "Ich schon, da ich Admin werden will" konnte man nichts anfangen.
 
-Während man mich an Wochenenden verheizen wollte,
-schrieb ich die ersten Bewerbungen für SysAdmin Stellen und bekam auch bald schon Einladungen.
+Während man mich an den Wochenenden verheizte, schrieb ich die ersten Bewerbungen für SysAdmin Stellen  
+und bekam auch schon bald die ersten Einladungen.
 
-Schließlich fand ich eine Firma, die einen Linux Admin suchten
-und beim  Vorstellungsgespräch betrat dann das Zimmer zuerst der IT Leiter der Firma
-und **oha**, wie es der Zufall mal wieder wollte, war das der Gründer der Linux User Group.
+Schließlich fand ich eine Firma, die einen Linux-Admin suchte und beim  Vorstellungsgespräch  
+betrat dann das Zimmer zuerst der IT Leiter, der **oha**, wie es der Zufall mal wieder wollte, der Gründer der Linux User Group war.
 
 Er hatte mich ebenfalls erkannt und so entspannte sich das Bewerbungsgespräch sofort.
 
