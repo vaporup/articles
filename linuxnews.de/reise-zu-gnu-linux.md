@@ -132,7 +132,7 @@ Er hatte mich ebenfalls erkannt und so entspannte sich das Bewerbungsgespräch s
 
 Der Team-Leiter, der dabei war, hat mir später noch gesagt, dass er mich eigentlich  
 nur eingeladen hatte (damals kannte ich noch nicht "Das IT-Karrierehandbuch"),  
-weil in der Bewerbung 1 Satz stand: "Kommandozeile bevorzugt" (er war auch ein Terminal Liebhaber).
+weil in der Bewerbung der Satz stand: "Kommandozeile bevorzugt" (er war auch ein Terminal Liebhaber).
 
 ## Hey, dich kenn ich doch
 
