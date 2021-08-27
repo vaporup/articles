@@ -33,7 +33,7 @@ Hat zwar ein paar Tage gedauert, aber so lernte man, Systeme zu fixen...
 
 Die Kommandozeile hatte mich schon in MS-DOS sehr fasziniert
 (vor allem die ganzen Komprimierungsprogramme wie ARJ und wie sie alle hießen)
-und die Liebe zum Terminal war dann auch später der Einsieg zu Linux
+und die Liebe zum Terminal war dann auch später der Einstieg zu Linux
 sowie der ersten Admin Stelle, da ich nur wegen dem Satz "Kommandozeile bevorzugt"
 zum Bewerbungsgespräch eingeladen wurde (damals kannte ich noch nicht "Das IT-Karrierehandbuch").
 
