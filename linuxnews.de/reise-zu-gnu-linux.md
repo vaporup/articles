@@ -44,26 +44,26 @@ damit Spiele flüssiger laufen bzw. überhaupt starten,
 machte ich alle aufkommenden Windows Versionen ab 3.11 bis Windows 95 mit,
 bis es Zeit wurde mir einen Ausbildungsplatz zu suchen.
 
-Zu dem Zeitpunkt waren die Fachinformatiker Berufe gerade erst am entstehen
+Zu dem Zeitpunkt waren die Fachinformatiker Berufe gerade erst am entstehen,  
 sodass ich erstmal eine Ausbildung zum Industrie-Mechniker bei Daimler machte.
 
-Parallel dazu natürlich weiter in der IT Welt gewurschtelt
-und vieles davon auch im Betrieb nutzen können.
+Parallel dazu natürlich weiter in der IT-Welt gewurschtelt
+und vieles davon auch im Betrieb nutzen können.  
 Während viele meiner Ausbildungskollegen an der CNC Maschine
 noch Werkzeuge vermessten, liefen meine schon mit CNC Programmen...
 
 ## Einstieg
 
-Mittlerweile bei Windows XP angekommen, zog ein früherer Sport-Kollege gegenüber ein - "Der Linux Freak".
+Mittlerweile bei Windows XP angekommen, zog ein früherer Sport-Kollege gegenüber ein: "Der Linux Freak".
 
-Selbst hatte ich schonmal SUSE 6.3 ausprobiert aber wieder entsorgt,
-da CD Brennen arsch-lahm gegenüber Windows war (ich wusste noch nix von DMA und hdparm).
+Selbst hatte ich schonmal SUSE 6.3 ausprobiert aber wieder entsorgt,  
+da CD Brennen Arsch-lahm gegenüber Windows war (ich wusste noch nix von DMA und hdparm).
 
-Der Nachbar meinte ich soll Debian nehmen, also CD gebrannt und installiert.
+Der Nachbar meinte, ich soll Debian nehmen, also CD gebrannt und installiert.
 
-Nach dem Booten blinkt mich aber nur ein Cursor an.
+Nach dem Booten blinkt mich aber nur ein Cursor an.  
 Obwohl mir die CLI von DOS nicht fremd war, stand ich erstmal blöd da
-mit dem Satz "Kommt da keine grapische Oberfläche? Was nu?"."
+mit den Worten: "Kommt da keine grapische Oberfläche? Was nu?"."
 
 "Tz.. Debian, das ist mir viel zu schwer", dachte ich mir dann nur.
 Also auch erstmal links liegen lassen.
