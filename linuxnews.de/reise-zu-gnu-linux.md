@@ -93,7 +93,7 @@ lief nachts die Linux Weiterbildung im dunklen Keller des Nachbarn.
 Zu der Zeit gab es noch kein Astaro, pfSense und wie sie alle heißen  
 und daher wurde in vielen Nächten das eigene Router System für Kunden konzipiert.
 
-Dazu musste aber erstmal viel Gelesen und gewurschtelt werden.
+Dazu musste aber erstmal viel gelesen und gewurschtelt werden.
 
 Viele Nächte bestanden nur aus Man-Page lesen wie IPTables oder in Mailinglisten zu wühlen, wie man PPPoE robuster macht.  
 Viele Tage gingen sogar allein dafür drauf, dem qmail SMTP-AUTH beizubringen...
