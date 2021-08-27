@@ -86,7 +86,7 @@ eine Ausbildungstelle zum Fachinformatiker in der Firma des Debian Nachbarns.
 
 Eigentlich wollte ich ja schon immer in der IT arbeiten, also: **Challenge accepted**
 
-Während ich im Tagesgeschäft immer besser wurde, kaputte Windows Desktops und Server zu fixen ()[Danke Mark Russinovich](https://docs.microsoft.com/de-de/sysinternals/downloads/sysinternals-suite)),  
+Während ich im Tagesgeschäft immer besser wurde, kaputte Windows Desktops und Server zu fixen ([Danke Mark Russinovich](https://docs.microsoft.com/de-de/sysinternals/downloads/sysinternals-suite)),  
 oder Kunden half einen VDR zu Hause einzurichten,
 lief nachts die Linux Weiterbildung im dunklen Keller des Nachbarn.
 
