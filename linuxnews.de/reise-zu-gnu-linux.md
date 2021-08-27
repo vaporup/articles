@@ -17,12 +17,12 @@ War dafür aber der beste Wurf...
 ## Grundsteine
 
 Nach kurzen Ausflügen über Amiga 500 und Commodore 64
-kam dann der erste 486 PC mit MS-DOS ins Haus.
+kam dann der erste 486 PC mit MS-DOS ins Haus.  
 Diesmal aber nicht für mich sondern meinen Vater.
 Darauf lief seine Warenwirtschafts-Software (in Batch geschrieben).
 
 Nachdem ich so mutig war und **command.com**, **autoexec.bat** sowie **config.sys**
-mit dem Satz "Kenn ich net, weg damit..." entsorgt hatte,
+mit dem Satz "Kenn ich net, weg damit..." entsorgt hatte,  
 wurden damit die Grundsteine für das spätere Admin Leben gelegt,
 da ich durch das Lesen des **guten** Handbuchs (RTFM: Read the **fine** manual)
 erstmal verstanden habe, wofür diese Dateien da waren und sie dann wieder rekonstruieren konnte.
@@ -40,8 +40,8 @@ zum Bewerbungsgespräch eingeladen wurde (damals kannte ich noch nicht "Das IT-K
 ## Zwischenstationen
 
 Während ich im ganzen Dorf jedem half seine DOS Start-Dateien zu optimieren
-damit Spiele flüssiger laufen bzw. überhaupt starten,
-machte ich alle aufkommenden Windows Versionen ab 3.11 bis Windows 95 mit
+damit Spiele flüssiger laufen bzw. überhaupt starten,  
+machte ich alle aufkommenden Windows Versionen ab 3.11 bis Windows 95 mit,  
 bis es Zeit wurde mir einen Ausbildungsplatz zu suchen.
 
 Zu dem Zeitpunkt waren die Fachinformatiker Berufe gerade erst am entstehen
