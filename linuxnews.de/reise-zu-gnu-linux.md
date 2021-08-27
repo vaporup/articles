@@ -155,4 +155,4 @@ und dieses Wissen heute gerne weiter gebe (zumindest denen, die es interessiert)
 ## Tip zum Schluss
 
 Selbst habe ich keinen Informatik Abschluss, habe aber als Quereinsteiger trotzdem selbst alles **studiert** und **probiert**.  
-und bin oft Columbo's [Ratschlag](https://www.youtube.com/watch?v=OC-IxaEadns) gefolgt und kann dies nur weiterempfehlen.
+und bin oft Columbo's [Ratschlag](https://www.youtube.com/watch?v=OC-IxaEadns) gefolgt und kann dies nur weiter empfehlen.
