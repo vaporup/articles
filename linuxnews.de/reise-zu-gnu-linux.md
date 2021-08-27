@@ -151,3 +151,8 @@ und dieses Wissen heute gerne weiter gebe (zumindest denen, die es interessiert)
 - Nach vielem Distro-Hopping verwende ich nun seit vielen Jahren nur noch Debian (das mir Anfangs zu schwer war :-) ).
 - Windows habe ich eigentlich nur noch für ein paar Steam Spiele.
 - GNU und Freier Software bin ich immer noch sehr nahe und versuche zurück zu geben, wo ich kann
+
+# Ratschlag
+
+Selbst habe ich keinen Informatik Abschluss, habe aber als Quereinsteiger trotzdem selbst alles **studiert** und **probiert**.  
+und bin oft Columbo's [Ratschlag](https://www.youtube.com/watch?v=OC-IxaEadns) gefolgt und kann dies nur weiterempfehlen.
