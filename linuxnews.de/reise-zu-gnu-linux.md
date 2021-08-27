@@ -68,17 +68,17 @@ mit den Worten: "Kommt da keine grapische Oberfläche? Was nu?"."
 "Tz.. Debian, das ist mir viel zu schwer", dachte ich mir dann nur.
 Also auch erstmal links liegen lassen.
 
-In der Zwischenzeit hatte ich und mein Kumpel uns dann
-mit 1-Floppy Routern wie fli4l und anderen die Zeit vertrieben.
+In der Zwischenzeit hatten ich und mein Kumpel uns dann
+mit 1-Floppy Routern wie fli4l und anderen die Zeit vertrieben.  
 Das war relativ einfach und konnte meist von Windows aus erledigt werden.
 
-Einige Zeit später drückte mir der Debian Nachbar dann aber eine CD in die Hand
+Einige Zeit später drückte mir der Debian Nachbar dann aber eine CD in die Hand  
 mit der Aufschrift "Gentoo Linux" und meinte "probier das mal aus".
 
-Im Nachhinein gesehen eigentlich nicht die optimale Einsteiger Distro
-aber damals hat es Gentoo durch sein sehr ausführliches Handbuch geschafft, dass ich ein laufendes System hinbekam.
+Im Nachhinein gesehen eigentlich nicht die optimale Einsteiger Distro  
+aber Gentoo hat es damals geschafft durch sein sehr ausführliches Handbuch, dass ich ein laufendes System hinbekam.
 
-Zwar erstmal alles nur abtippen ohne zu verstehen, was diese Befehle tun (erinnerte mich an die Schneider BASIC Zeiten)
+Zwar erstmal alles nur abtippen ohne zu verstehen, was diese Befehle tun (erinnerte mich an die Schneider BASIC Zeiten)  
 aber es bootete ein komplettes Linux System mit Enlightenment als Oberfläche und das war schon ein tolles Erfolgserlebnis.
 
 ## Fortschritte
