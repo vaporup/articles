@@ -151,4 +151,4 @@ und dieses Wissen heute gerne weiter gebe (zumindest denen, die es interessiert)
 
 - Nach vielem Distro-Hopping verwende ich nun seit vielen Jahren nur noch Debian (das mir Anfangs zu schwer war :-) ).
 - Windows habe ich eigentlich nur noch für ein paar Steam Spiele.
-- GNU und Freier Software bin ich immer noch sehr Nahe und gebe auch vieles zurück
+- GNU und Freier Software bin ich immer noch sehr Nahe und versuche zurück zu geben, wo ich kann
