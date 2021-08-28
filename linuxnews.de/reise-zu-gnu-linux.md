@@ -45,7 +45,7 @@ machte ich alle aufkommenden Windows Versionen ab 3.11 bis Windows 95 mit,
 bis es Zeit wurde mir einen Ausbildungsplatz zu suchen.
 
 Zu dem Zeitpunkt waren die Fachinformatiker Berufe gerade erst am entstehen,  
-sodass ich erstmal eine Ausbildung zum Industrie-Mechniker bei Daimler machte.
+sodass ich erstmal eine Ausbildung zum Industrie-Mechaniker bei Daimler machte.
 
 Parallel dazu natürlich weiter in der IT-Welt gewurschtelt
 und vieles davon auch im Betrieb nutzen können.  
