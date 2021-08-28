@@ -126,7 +126,7 @@ Während man mich an den Wochenenden verheizte, schrieb ich die ersten Bewerbung
 und bekam auch schon bald die ersten Einladungen.
 
 Schließlich fand ich eine Firma, die einen Linux-Admin suchte und beim  Vorstellungsgespräch  
-betrat dann das Zimmer zuerst der IT Leiter, der **oha**, wie es der Zufall mal wieder wollte, der Gründer der Linux User Group war.
+betrat dann das Zimmer zuerst der IT Leiter der Firma, der, **oha**, wie es der Zufall mal wieder wollte, der Gründer der Linux User Group war.
 
 Er hatte mich ebenfalls erkannt und so entspannte sich das Bewerbungsgespräch sofort.
 
