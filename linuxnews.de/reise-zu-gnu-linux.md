@@ -13,7 +13,7 @@ Wenn der Computer aus war, durfte man wieder alles nochmal abtippen.
 
 Spiele gab es auf Audio-Kassette, die jedoch sehr lange laden mussten :-)  
 Die Kassette mit den besten Spielen hat mein Kumpel dann mal versehentlich beim Steinehüpfen
-in den See entsorgt.  
+in den See entsorgt (Danke Markus).  
 War dafür aber der beste Wurf...
 
 ## Grundsteine
