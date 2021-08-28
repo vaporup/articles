@@ -146,7 +146,7 @@ jemand an meiner Büro-Tür und fragte nach dem Team-Leiter.
 
 Als ich ihn anschaute, meinte ich nur "Hey, dich kenn ich doch. Du bist doch bei Ubuntu".
 
-Wie es der Zufall mal wieder wollte, war es einer der Ubuntu Paket Maintainer,
+Wie es der Zufall mal wieder wollte, war es einer der Ubuntu Paket-Maintainer,
 den ich bei den Ubuntu Videos gesehen hatte.  
 Hier in der Firma war er als Senior-SysAdmin eingestellt, in dessen Team ich dann wechselte  
 und von dem ich dann viel lernen durfte und dieses Wissen heute gerne weiter gebe (zumindest an die, die es interessiert).
