@@ -148,7 +148,7 @@ Als ich ihn anschaute, meinte ich nur "Hey, dich kenn ich doch. Du bist doch bei
 
 Wie es der Zufall mal wieder wollte, war es einer der Ubuntu Paket Maintainer,
 den ich bei den Ubuntu Videos gesehen hatte.  
-Hier in der Firma war er als Senior-SysAdmin eingestellt, in dessen Team in dann wechselte  
+Hier in der Firma war er als Senior-SysAdmin eingestellt, in dessen Team ich dann wechselte  
 und von dem ich dann viel lernen durfte und dieses Wissen heute gerne weiter gebe (zumindest denen, die es interessiert).
 
 ## Komm doch vorbei
