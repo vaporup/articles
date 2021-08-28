@@ -72,7 +72,7 @@ mit den Worten:
 Also auch erstmal links liegen lassen.
 
 In der Zwischenzeit hatten ich und mein Kumpel uns dann
-mit 1-Floppy Routern wie [fli4l](https://www.fli4l.de) und anderen die Zeit vertrieben.  
+mit 1-Floppy Routern wie [fli4l](https://www.fli4l.de) und [anderen](http://www.fredshack.com/docs/floppyroutersfw.html) die Zeit vertrieben.  
 Das war relativ einfach und konnte meist von Windows aus erledigt werden.
 
 Einige Zeit später drückte mir der Debian Nachbar dann aber eine CD in die Hand  
