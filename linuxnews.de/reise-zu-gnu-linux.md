@@ -164,7 +164,7 @@ Und so war ich dann mit Stallman und ihm am Wochenende in einer Pizzeria in Fran
 - Windows habe ich eigentlich nur noch für ein paar Steam Spiele.
 - GNU und Freier Software bin ich immer noch sehr nahe und versuche zurück zu geben, wo ich kann
 
-## Tip zum Schluss
+## Tipp zum Schluss
 
 Selbst habe ich keinen Informatik Abschluss, habe aber als Autodidakt trotzdem selbst viel **studiert** und **probiert**.  
 und empfehle daher jedem Columbo's [Ratschlag](https://www.youtube.com/watch?v=OC-IxaEadns).
