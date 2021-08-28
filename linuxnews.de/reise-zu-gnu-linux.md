@@ -7,7 +7,9 @@ auf den Tisch stellte.
 Sie musste geahnt haben, dass hier ein SysAdmin-by-Nature heranwuchs.
 
 Der PC kam mit einem gedruckten Handbuch, in dem u.a. BASIC Programme standen, die geometrische Figuren auf dem Bildschirm malten.
-Hier machte ich die ersten Programmiererfahrungen durch Anpassen von Werten (leider musste man den ganzen Code manuell vom Buch abtippen).
+Hier machte ich die ersten Programmiererfahrungen durch Anpassen von Werten oder Anweisungen.
+Leider musste man den ganzen Code manuell vom Buch abschreiben, konnte es aber nicht speichern.
+Wenn der Computer aus war, durfte man wieder alles nochmal abtippen.
 
 Spiele gab es auf Audio-Kassette, die jedoch sehr lange laden mussten :-)  
 Die Kassette mit den besten Spielen hat mein Kumpel dann mal versehentlich beim Steinehüpfen
