@@ -102,7 +102,7 @@ Hier hatte ich vieles zu Linux gelernt, aber auch wie wichtig Pragmatismus ist.
 Die übertriebenen Sicherheitsvorstellungen des Projektleiters waren für das Produkt leider sehr kontraproduktiv...
 
 Parallel lernte ich nicht nur Linux sondern auch die komplette Geschichte dahinter  
-und zwar die mit Stallman (auch ihn traf ich später zufällig), GNU, etc statt nur den kleinen Teil von Linus Torvalds.
+und zwar die mit [Stallman](https://de.wikipedia.org/wiki/Richard_Stallman) (auch ihn traf ich später zufällig), GNU, etc statt nur den kleinen Teil von Linus Torvalds.
 
 Das bewegte mich auch dazu eine Linux User Group in der Nähe aufzusuchen.  
 Den Gründer der LUG sollte ich später nochmal treffen.
@@ -151,11 +151,12 @@ und von dem ich dann viel lernen durfte und dieses Wissen heute gerne weiter geb
 Irgendwann wollte ich selbst Paket-Maintainer für Debian werden am besten für ein GNU Projekt
 und suchte noch eine Software, die noch nicht paketiert wurde und mich selbst auch interessierte.
 Als ich eine [fand](https://www.gnu.org/software/recutils/), passte alles zusammen.
-Das Projekt selbst gehörte zum GNU Projekt, der Entwickler selbst ist der Gründer von GNU Spanien
+Das Projekt selbst gehörte zum GNU Projekt, der [Entwickler](http://www.jemarch.net/cv.html) selbst ist der Gründer von GNU Spanien
 und als ich ihm erzählte, dass ich ich ein Fan von Stallman und GNU bin, meinte er nur:
 
-"Der kommt am Wochenende zu mir zum Essen, komm doch vorbei". Und war ich dann mit
-Stallman und ihm am Wochenende in einer Pizzeria in Frankfurt. 
+"Der kommt am Wochenende zu mir zum Essen, komm doch vorbei".
+
+Und so war ich dann mit Stallman und ihm am Wochenende in einer Pizzeria in Frankfurt. 
 
 ## Heute
 
