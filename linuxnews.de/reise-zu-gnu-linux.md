@@ -67,6 +67,7 @@ Obwohl mir die CLI von DOS nicht fremd war, stand ich erstmal blöd da
 mit den Worten:
 
 "Kommt da keine grapische Oberfläche? Was nu?"."  
+
 "Tz... Debian, das ist mir viel zu schwer", dachte ich mir dann nur.
 Also auch erstmal links liegen lassen.
 
