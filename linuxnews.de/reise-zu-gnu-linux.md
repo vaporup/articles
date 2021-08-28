@@ -50,7 +50,8 @@ sodass ich erstmal eine Ausbildung zum Industrie-Mechaniker bei Daimler machte.
 Parallel dazu natürlich weiter in der IT-Welt gewurschtelt
 und vieles davon auch im Betrieb nutzen können.  
 Während viele meiner Ausbildungskollegen an der CNC Maschine
-noch Werkzeuge vermessten, liefen meine schon mit CNC Programmen...
+noch Werkzeuge vermessten, liefen meine schon mit CNC Programmen
+und hatte daher Zeit anderen Kollegen zu ihren PC Problemen zu beraten.
 
 ## Einstieg
 
