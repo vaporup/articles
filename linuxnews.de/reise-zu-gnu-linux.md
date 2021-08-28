@@ -100,7 +100,7 @@ und daher wurde in vielen Nächten das eigene Router System für Kunden konzipie
 
 Dazu musste aber erstmal viel gelesen und gewurschtelt werden.
 
-Viele Nächte bestanden nur aus Man-Pages lesen wie z.B. IPTables oder in Mailinglisten zu wühlen, wie man den pppd robuster macht.  
+Viele Nächte bestanden nur aus Man-Pages lesen wie z.B. IPTables oder in Mailinglisten zu wühlen wie man den pppd robuster macht.  
 Es ging sogar mal eine ganze Woche nur dafür drauf, dem qmail SMTP-AUTH beizubringen...
 
 Hier hatte ich vieles zu Linux gelernt, aber auch wie wichtig Pragmatismus ist.  
