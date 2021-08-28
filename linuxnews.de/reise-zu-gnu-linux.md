@@ -91,8 +91,8 @@ eine Ausbildungstelle zum Fachinformatiker in der Firma des Debian Nachbarns.
 
 Eigentlich wollte ich ja schon immer in der IT arbeiten, also: **Challenge accepted**
 
-Mit Linux hatte ich dort meist übers Telefon zu tun. Ich war vor Ort beim Kunden
-und der Technische Leiter hat mir am Hörer diktiert, was ich ins Terminal eintippen soll.
+Mit Linux hatte ich dort meist übers Telefon zu tun.  
+Ich war vor Ort beim Kunden und der Technische Leiter hat mir am Hörer diktiert, was ich ins Terminal eintippen soll.
 
 Während ich im Tagesgeschäft immer besser wurde, kaputte Windows Desktops und Server zu fixen (Danke [Mark Russinovich](https://docs.microsoft.com/de-de/sysinternals/downloads/sysinternals-suite)),  
 oder Kunden half einen [VDR](https://de.wikipedia.org/wiki/Video_Disk_Recorder) zu Hause einzurichten,
