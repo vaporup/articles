@@ -102,7 +102,7 @@ Hier hatte ich vieles zu Linux gelernt, aber auch wie wichtig Pragmatismus ist.
 Die übertriebenen Sicherheitsvorstellungen des Projektleiters waren für das Produkt leider sehr kontraproduktiv...
 
 Parallel lernte ich nicht nur Linux sondern auch die komplette Geschichte dahinter  
-und zwar die mit [Stallman](https://de.wikipedia.org/wiki/Richard_Stallman) (auch ihn traf ich später zufällig), GNU, etc statt nur den kleinen Teil von Linus Torvalds.
+und zwar die mit [Stallman](https://de.wikipedia.org/wiki/Richard_Stallman) (auch ihn traf ich später zufällig), [GNU](https://www.gnu.org/home.de.html), etc statt nur den kleinen Teil von Linus Torvalds.
 
 Das bewegte mich auch dazu eine Linux User Group in der Nähe aufzusuchen.  
 Den Gründer der LUG sollte ich später nochmal treffen.
