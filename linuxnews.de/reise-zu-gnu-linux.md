@@ -103,7 +103,7 @@ Dazu musste aber erstmal viel gelesen und gewurschtelt werden.
 Viele Nächte bestanden nur aus Man-Pages lesen wie z.B. IPTables oder in Mailinglisten zu wühlen wie man den [pppd](https://en.wikipedia.org/wiki/Point-to-Point_Protocol_daemon) robuster macht.  
 Es ging sogar mal eine ganze Woche nur dafür drauf, dem qmail SMTP-AUTH beizubringen (damals eine reine Patch-Orgie).
 
-Hier hatte ich vieles zu Linux gelernt, aber auch wie wichtig Pragmatismus ist.  
+Hier hatte ich vieles zu Linux gelernt (Danke Bobby), aber auch wie wichtig Pragmatismus ist.  
 Die übertriebenen Sicherheitsvorstellungen des Projektleiters waren für das Produkt leider sehr kontraproduktiv...
 
 Parallel lernte ich nicht nur Linux sondern auch die komplette Geschichte dahinter  
