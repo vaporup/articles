@@ -92,7 +92,7 @@ eine Ausbildungstelle zum Fachinformatiker in der Firma des Debian Nachbarns.
 Eigentlich wollte ich ja schon immer in der IT arbeiten, also: **Challenge accepted**
 
 Während ich im Tagesgeschäft immer besser wurde, kaputte Windows Desktops und Server zu fixen (Danke [Mark Russinovich](https://docs.microsoft.com/de-de/sysinternals/downloads/sysinternals-suite)),  
-oder Kunden half einen VDR zu Hause einzurichten,
+oder Kunden half einen [VDR](https://de.wikipedia.org/wiki/Video_Disk_Recorder) zu Hause einzurichten,
 lief nachts die Linux Weiterbildung im dunklen Keller des Nachbarn.
 
 Zu der Zeit gab es noch kein Astaro, pfSense und wie sie alle heißen  
