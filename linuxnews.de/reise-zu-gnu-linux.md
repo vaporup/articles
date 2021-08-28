@@ -63,7 +63,7 @@ Nach dem Booten blinkt mich aber nur ein Cursor an.
 Obwohl mir die CLI von DOS nicht fremd war, stand ich erstmal blöd da
 mit den Worten: "Kommt da keine grapische Oberfläche? Was nu?"."
 
-"Tz.. Debian, das ist mir viel zu schwer", dachte ich mir dann nur.
+"Tz... Debian, das ist mir viel zu schwer", dachte ich mir dann nur.
 Also auch erstmal links liegen lassen.
 
 In der Zwischenzeit hatten ich und mein Kumpel uns dann
