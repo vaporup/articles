@@ -115,7 +115,7 @@ Einer davon blieb mir sehr in Erinnerung, und auch ihn sollte ich später ebenfa
 ## Zu den Profis
 
 Der Arbeitskraftnehmer hat mich und alle anderen Azubis nach der Ausbildung dann entsorgt,  
-sodass ich für kurze Zeit nochmal zu Daimler bischen CNC-Fräsen bin.
+sodass ich für kurze Zeit nochmal zu Daimler bin zum CNC-Fräsen.
 
 In der Mittagspause las ich dann Bücher wie "Backup Tools for Linux"  
 und Kollegen kommentierten dies nur mit rümpfender Nase: "Brauch man sowas?".
