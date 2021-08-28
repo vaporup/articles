@@ -154,7 +154,7 @@ Als ich eine [fand](https://www.gnu.org/software/recutils/), passte alles zusamm
 Das Projekt selbst gehörte zum GNU Projekt, der [Entwickler](http://www.jemarch.net/cv.html) ist der Gründer von GNU Spanien
 und als ich ihm erzählte, dass ich ein Fan von Stallman und GNU bin, meinte er nur:
 
-"Der kommt am Wochenende zu mir zum Essen. Komm doch vorbei".
+"Der kommt morgen zu mir zum Essen. Komm doch vorbei".
 
 Und so war ich dann mit Stallman und ihm am Wochenende in einer Pizzeria in Frankfurt. 
 
