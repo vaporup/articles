@@ -152,7 +152,7 @@ Irgendwann wollte ich selbst Paket-Maintainer für Debian werden am besten für 
 und suchte noch eine Software, die noch nicht paketiert wurde und mich selbst auch interessierte.
 Als ich eine [fand](https://www.gnu.org/software/recutils/), passte alles zusammen.
 Das Projekt selbst gehörte zum GNU Projekt, der [Entwickler](http://www.jemarch.net/cv.html) selbst ist der Gründer von GNU Spanien
-und als ich ihm erzählte, dass ich ich ein Fan von Stallman und GNU bin, meinte er nur:
+und als ich ihm erzählte, dass ich ein Fan von Stallman und GNU bin, meinte er nur:
 
 "Der kommt am Wochenende zu mir zum Essen, komm doch vorbei".
 
