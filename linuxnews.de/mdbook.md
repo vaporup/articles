@@ -26,24 +26,26 @@ Wer seinen Blog/Webseite mit Hugo betreibt, wird mdBook vielleicht ebenfalls lie
 
 mdBook kommt vom Rust Projekt um dessen Doku damit zu erstellen.
 
-- https://doc.rust-lang.org/book/
+- <https://doc.rust-lang.org/book/>
 
 Die Doku zu mdBook ebenfalls
 
-- https://rust-lang.github.io/mdBook/
+- <https://rust-lang.github.io/mdBook/>
 
-Ein Liste mit anderen Büchern
+Eine Liste mit anderen Büchern findet man hier:
 
-- https://github.com/softprops/awesome-mdbook
+- <https://github.com/softprops/awesome-mdbook>
 
 ## Plugins
 
-Gerendert wird zu HTML, es gibt jedoch verschiedene Plugins und Backends,
-die man nutzen kann wie z.B. Manpages oder PDF statt HTML zu erzeugen.
+Gerendert wird zu HTML, es gibt jedoch verschiedene Plugins und Backends, die man nutzen kann  
+wie z.B. Manpages oder PDF statt HTML zu erzeugen.  
 Ein experimentelles Backend für EPUB gibt es ebenfalls.
 
-- https://github.com/rust-lang/mdBook/wiki/Third-party-plugins
+- <https://github.com/rust-lang/mdBook/wiki/Third-party-plugins>
 
 ## Video Vortrag
 
-- https://skillsmatter.com/skillscasts/15024-project-documentation-with-rust-and-mdbook
+Einen Überblick gibt es auch als Video Vortrag zu sehen
+
+- <https://skillsmatter.com/skillscasts/15024-project-documentation-with-rust-and-mdbook>
