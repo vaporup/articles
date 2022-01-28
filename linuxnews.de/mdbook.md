@@ -10,7 +10,7 @@ Den Inhalt nun einfach in verschiedene Ordner und Markdown Dateien
 auf Github pfeffern funktioniert, ist aber nicht besonders schick.
 
 Da gibt es Lösungen wie Gitbook, Bookdown, selbst gehäkelte Pandoc Lösungen und vieles mehr.  
-Doch mit mdBook erhält man ein Tool, das out of the box die wichtigsten Dinge mitbringt, ohne überladen zu wirken.  
+Doch mit [mdBook](https://github.com/azerupi/mdBook) erhält man ein Tool, das out of the box die wichtigsten Dinge mitbringt, ohne überladen zu wirken.  
 Eine Nische zwischen den kleinen und den sehr großen Lösungen.
 
 Wer seinen Blog/Webseite mit Hugo betreibt, wird mdBook vielleicht ebenfalls lieb gewinnen.
