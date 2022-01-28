@@ -3,23 +3,21 @@
 Nicht selten will man etwas dokumentieren das größer ist als ein paar Befehle, Listen oder Notizen.  
 Vielleicht eine REST API, HOWTOs, Tutorials oder sogar ein (kleines) Büchlein.
 
-Optimalerweise das Ganze in Markdown,
-das sich neben all den anderen **Lightweight** Markup Sprachen
-sehr gut verbreitet hat.
+Optimalerweise das Ganze in Markdown,  
+das sich neben all den anderen Lightweight Markup Sprachen sehr gut verbreitet hat.
 
-Den Inhalt einfach in verschiedene Ordner
-und Markdown Dateien auf Github pfeffern funktioniert, ist aber nicht besonders schick.
+Den Inhalt nun einfach in verschiedene Ordner und Markdown Dateien  
+auf Github pfeffern funktioniert, ist aber nicht besonders schick.
 
-Da gibt es Lösungen wie Gitbook, Bookdown, selbst-gestrickte Pandoc Lösungen und vieles mehr,
-doch mit mdBook erhält man ein Tool, das **out of the box** die wichtigsten Dinge mitbringt,
-ohne überladen zu wirken. Eine Nische zwischen den kleinen und den sehr großen Lösungen.
+Da gibt es Lösungen wie Gitbook, Bookdown, selbst-gestrickte Pandoc Lösungen und vieles mehr,  
+doch mit mdBook erhält man ein Tool, das out of the box die wichtigsten Dinge mitbringt, ohne überladen zu wirken.  
+Eine Nische zwischen den kleinen und den sehr großen Lösungen.
 
-Wer seinen Blog/Webseite mit Hugo betreibt,
-wird mdBook vielleicht ebenfalls lieb gewinnen.
+Wer seinen Blog/Webseite mit Hugo betreibt, wird mdBook vielleicht ebenfalls lieb gewinnen.
 
 - Die Software ist schnell installiert, da einzelne Binary.
 - Die Doku ist schnell überblickt und man kann zeitnah loslegen.
-- Ein integrierter Webserver kann die Daten direkt im Browser rendern
+- Ein integrierter Webserver kann die Daten direkt im Browser rendern  
   bevor man sie auf seinen eigenen Webserver oder Github/Gitlab Pages hochlädt
 - Es stehen verschiedene Themes zu Verfügung (auch ein Dark Mode)
 - Eine Suche zum Durchsuchen der Inhalte ist ebenfalls mit an Bord.
