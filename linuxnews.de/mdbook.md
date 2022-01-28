@@ -9,8 +9,8 @@ das sich neben all den anderen Lightweight Markup Sprachen sehr gut verbreitet h
 Den Inhalt nun einfach in verschiedene Ordner und Markdown Dateien  
 auf Github pfeffern funktioniert, ist aber nicht besonders schick.
 
-Da gibt es Lösungen wie Gitbook, Bookdown, selbst-gestrickte Pandoc Lösungen und vieles mehr,  
-doch mit mdBook erhält man ein Tool, das out of the box die wichtigsten Dinge mitbringt, ohne überladen zu wirken.  
+Da gibt es Lösungen wie Gitbook, Bookdown, selbst-gestrickte Pandoc Lösungen und vieles mehr.  
+Doch mit mdBook erhält man ein Tool, das out of the box die wichtigsten Dinge mitbringt, ohne überladen zu wirken.  
 Eine Nische zwischen den kleinen und den sehr großen Lösungen.
 
 Wer seinen Blog/Webseite mit Hugo betreibt, wird mdBook vielleicht ebenfalls lieb gewinnen.
