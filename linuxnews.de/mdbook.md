@@ -1,6 +1,6 @@
 # mdBook - Pragmatisch Bücher in Markdown erstellen
 
-Nicht selten will man etwas dokumentieren das größer ist als ein paar Befehle, Listen oder Notizen.
+Nicht selten will man etwas dokumentieren das größer ist als ein paar Befehle, Listen oder Notizen.  
 Vielleicht eine REST API, HOWTOs, Tutorials oder sogar ein (kleines) Büchlein.
 
 Optimalerweise das Ganze in Markdown,
