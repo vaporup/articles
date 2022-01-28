@@ -48,4 +48,4 @@ Ein experimentelles Backend für EPUB gibt es ebenfalls.
 
 Einen Überblick gibt es auch als Video Vortrag zu sehen
 
-- <https://skillsmatter.com/skillscasts/15024-project-documentation-with-rust-and-mdbook>
+- [Project Documentation with Rust and mdBook](https://skillsmatter.com/skillscasts/15024-project-documentation-with-rust-and-mdbook>)
