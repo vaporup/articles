@@ -39,7 +39,7 @@ Eine Liste mit anderen Büchern findet man hier:
 ## Plugins
 
 Gerendert wird zu HTML, es gibt jedoch verschiedene Plugins und Backends, die man nutzen kann  
-wie z.B. Manpages oder PDF statt HTML zu erzeugen.  
+um z.B. Manpages oder PDF statt HTML zu erzeugen.  
 Ein experimentelles Backend für EPUB gibt es ebenfalls.
 
 - <https://github.com/rust-lang/mdBook/wiki/Third-party-plugins>
