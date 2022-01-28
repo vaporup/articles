@@ -16,7 +16,7 @@ Eine Nische zwischen den kleinen und den sehr großen Lösungen.
 Wer seinen Blog/Webseite mit Hugo betreibt, wird mdBook vielleicht ebenfalls lieb gewinnen.
 
 - Die Software ist schnell installiert, da einzelne Binary.
-- Die Doku ist schnell überblickt und man kann zeitnah loslegen.
+- Die Doku ist rasch überblickt und man kann zeitnah loslegen.
 - Ein integrierter Webserver rendert bei Bedarf die Daten direkt im Browser  
   bevor man sie auf seinen eigenen Webserver oder Github/Gitlab Pages hochlädt.
 - Es stehen verschiedene Themes zu Verfügung (auch ein Dark Mode).
