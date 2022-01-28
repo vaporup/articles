@@ -17,7 +17,7 @@ Wer seinen Blog/Webseite mit Hugo betreibt, wird mdBook vielleicht ebenfalls lie
 
 - Die Software ist schnell installiert, da einzelne Binary.
 - Die Doku ist schnell überblickt und man kann zeitnah loslegen.
-- Ein integrierter Webserver kann die Daten direkt im Browser rendern  
+- Ein integrierter Webserver rendert bei Bedarf die Daten direkt im Browser  
   bevor man sie auf seinen eigenen Webserver oder Github/Gitlab Pages hochlädt
 - Es stehen verschiedene Themes zu Verfügung (auch ein Dark Mode)
 - Eine Suche zum Durchsuchen der Inhalte ist ebenfalls mit an Bord.
