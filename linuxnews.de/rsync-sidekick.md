@@ -24,7 +24,7 @@ und versucht zu ermitteln, welche Dateien und Ordner verschoben
 bzw. umbenannt werden müssen damit der normale rsync Aufruf danach  
 nur wenig Geradeziehen bzw. nur Daten, die wirklich fehlen, übertragen muss.
 
-Dabei werden Daten nicht direkt verändert, sondern am Ende wird einfach nur ein Shellscript ausgespuckt,  
+Dabei werden Daten nicht direkt verändert, sondern am Ende wird einfach nur ein Shellskript ausgespuckt,  
 das man entweder manuell ausführt oder direkt von rsync-sidekick starten lassen kann.
 
 Danach sollte man unbedingt nochmal rsync selbst drüberschlichten lassen  
