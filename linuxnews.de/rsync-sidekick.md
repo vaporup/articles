@@ -5,7 +5,7 @@ findet sich auch heute noch das bewährte rsync
 im Werkzeugkoffer der meisten Admins.
 
 Doch bei der Menge von Daten heutzutage  
-zeigt sich bei rsync das ein oder andere Manko jedoch sehr deutlich.
+zeigt sich bei rsync das ein oder andere Manko besonders deutlich.
 
 Ändert man z.B. einfach nur die Ordnerstruktur,  
 ist das für rsync nicht direkt ersichtlich  
@@ -24,7 +24,7 @@ und versucht zu ermitteln, welche Dateien und Ordner verschoben
 bzw. umbenannt werden müssen damit der normale rsync Aufruf danach  
 nur wenig Geradeziehen bzw. nur Daten, die wirklich fehlen, übertragen muss.
 
-rsync-sidekick selbst verändert keine Daten sondern spuckt am Ende einfach nur ein Shellscript aus,  
+Dabei werden Daten nicht direkt verändert sondern am Ende wird einfach nur ein Shellscript ausgespuckt,  
 das man entweder manuell ausführt oder direkt von rsync-sidekick starten lassen kann.
 
 Um das Vergleichen der Daten zu beschleunigen,  
