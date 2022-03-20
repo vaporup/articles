@@ -1,4 +1,4 @@
-rsync-sidekick - rsync's dufter Kumpel
+# rsync-sidekick - rsync's dufter Kumpel
 
 Wenn es darum geht Daten zu synchronisieren,  
 findet sich auch heute noch das bewährte rsync im Werkzeugkoffer des Admins.
