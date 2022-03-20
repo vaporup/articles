@@ -31,7 +31,7 @@ Danach sollte man unbedingt nochmal rsync selbst drüberschlichten lassen
 um das ein oder andere Fältchen gerade zu bügeln...
 
 Um das Vergleichen der Daten zu beschleunigen, wird nicht die komplette Datei,  
-sondern nur einzelne Stellen darin gehashed (Das Verfahren ähnelt dem von [OpenSubtitles](https://trac.opensubtitles.org/projects/opensubtitles/wiki/HashSourceCodes)).
+sondern nur einzelne Stellen darin gehashed (das Verfahren ähnelt dem von [OpenSubtitles](https://trac.opensubtitles.org/projects/opensubtitles/wiki/HashSourceCodes)).
 
 Um rsync-sidekick zwischen Hosts zu nutzen,  
 muss man sich [derzeit](https://github.com/m-manu/rsync-sidekick/issues/1) noch mit SSHFS behelfen.
