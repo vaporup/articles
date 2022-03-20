@@ -27,7 +27,7 @@ nur wenig Geradeziehen bzw. nur Daten, die wirklich fehlen, übertragen muss.
 Dabei werden Daten nicht direkt verändert, sondern am Ende wird einfach nur ein Shellscript ausgespuckt,  
 das man entweder manuell ausführt oder direkt von rsync-sidekick starten lassen kann.
 
-Danach sollte man unbedingt nochmal rsync selbst drüber schlichten lassen  
+Danach sollte man unbedingt nochmal rsync selbst drüberschlichten lassen  
 um das ein oder andere Fältchen gerade zu bügeln...
 
 Um das Vergleichen der Daten zu beschleunigen,  
