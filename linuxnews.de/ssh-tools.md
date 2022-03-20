@@ -93,7 +93,7 @@ können aber auch direkt von Github runtergeladen und ausgeführt werden.
 
 ## Links
 
-[1] https://de.wikipedia.org/wiki/KISS-Prinzip
-[2] https://github.com/vaporup/ssh-tools
-[3] https://github.com/vaporup/CISS
-[4] https://repology.org/project/ssh-tools/versions
+[1] https://de.wikipedia.org/wiki/KISS-Prinzip  
+[2] https://github.com/vaporup/ssh-tools  
+[3] https://github.com/vaporup/CISS  
+[4] https://repology.org/project/ssh-tools/versions  
