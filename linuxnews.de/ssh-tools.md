@@ -1,4 +1,4 @@
-ssh-tools - den Alltag mit OpenSSH bequemer machen.
+# ssh-tools - den Alltag mit OpenSSH bequemer machen.
 
 OpenSSH, das Schweizer Taschenmesser des Admins
 für den täglichen Remotezugriff.
