@@ -3,8 +3,7 @@
 Die Shell. Von vielen gefürchtet wie der Teufel das Weihwasser  
 aber immer noch eins der effektivsten Werkzeuge heutzutage. 
 
-Doch auch hier kann man wertvolle Zeit vergeuden  
-z.B. beim Suchen alter Befehle.
+Doch auch hier kann man wertvolle Zeit vergeuden z.B. beim Suchen alter Befehle.
 
 Den ```history``` Befehl lernt man dabei schnell kennen  
 sowie das Zurückholen vorheriger Befehle mit der Pfeiltaste nach oben.
