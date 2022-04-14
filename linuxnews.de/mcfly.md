@@ -45,8 +45,6 @@ Unterstützt werden aktuell folgende Shells:
 Es gibt fertige [2]Binaries zum Runterladen  
 und man entpackt sich das passende davon einfach in den Pfad.
 
-## Einrichten
-
 mcfly erzeugt Shell Code für die jeweilige Shell,  
 den man sich entweder selbst in die passende Config schreibt,  
 oder via ```eval``` direkt laden lässt.  
