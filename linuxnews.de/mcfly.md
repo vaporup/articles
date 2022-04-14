@@ -100,7 +100,7 @@ Für Zsh und Fish wird das nicht gebraucht.
 Zsh räumt selbst auf und für Fish wird kein Tempfile verwendet.
 
 
-## Konfigurieren
+## Konfiguration
 
 Über Umgebungsvariablen kann man sich vieles anpassen wie z.B.
 
