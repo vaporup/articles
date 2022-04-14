@@ -99,8 +99,8 @@ trap mcfly_cleanup EXIT
 
 ```
 
-Für Zsh und Fish wird das nicht gebraucht. Zsh räumt selbst auf  
-und für Fish wird kein Tempfile verwendet.
+Für Zsh und Fish wird das nicht gebraucht.  
+Zsh räumt selbst auf und für Fish wird kein Tempfile verwendet.
 
 
 ## Konfigurieren
