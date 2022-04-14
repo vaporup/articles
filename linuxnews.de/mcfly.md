@@ -111,7 +111,7 @@ Zsh räumt selbst auf und für Fish wird kein Tempfile verwendet.
 
 ## Schmankerl
 
-Der Name des Tools ist eine Anspielung auf die bekannten Szenen aus der [4]**Zurück in die Zukunft** Reihe
+Der Name des Tools ist eine Anspielung auf die bekannten Szenen aus den [4]**Zurück in die Zukunft** Filmen.
 
 ## Links
 
