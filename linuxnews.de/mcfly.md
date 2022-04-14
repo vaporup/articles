@@ -22,7 +22,7 @@ Hier möchte nun [1]mcfly unterstützen damit man schneller findet statt sucht.
 Das Programm klinkt sich beim Drücken von STRG+r ein  
 und ersetzt dadurch das bisherige Such-Interface der Shell.
 
-Ein Suchergebniss kann direkt durch ENTER wieder ausgeführt  
+Ein Suchergebnis kann direkt durch ENTER wieder ausgeführt  
 bzw. beim Drücken der TAB Taste vorher nochmal editiert werden.
 
 Suchergebnisse werden nach verschiedenen Kriterien priorisiert.  
