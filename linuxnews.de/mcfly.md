@@ -77,7 +77,7 @@ Beispiel für Bash
 eval "$(mcfly init bash)"
 ```
 
-Im Falle von Bash sollte man sich jedoch noch einen zusätzliche TRAP setzen  
+Im Falle von Bash sollte man sich jedoch noch einen zusätzlichen TRAP setzen  
 ansonsten [3]müllt man sich /tmp/ über die Zeit voll
 
 ```bash
