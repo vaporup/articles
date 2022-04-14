@@ -49,9 +49,9 @@ und man entpackt sich das passende davon einfach in den Pfad.
 ## Einrichten
 
 mcfly erzeugt Shell Code für die jeweilige Shell,  
-den man sich entweder selbst in die passende Config schreibt,
+den man sich entweder selbst in die passende Config schreibt,  
 oder via ```eval``` direkt laden lässt.  
-Letzteres ist zwar bequemer und vereinfacht auch das Updaten,
+Letzteres ist zwar bequemer und vereinfacht auch das Updaten,  
 jedoch sollte man sich vorher immer mal anschauen was man da ausführt.
 
 ### Anzeigen des Shell Codes
