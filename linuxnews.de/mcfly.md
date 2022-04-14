@@ -5,7 +5,7 @@ aber immer noch eins der effektivsten Werkzeuge heutzutage.
 
 Doch auch hier kann man wertvolle Zeit vergeuden z.B. beim Suchen alter Befehle.
 
-Den ```history``` Befehl lernt man dabei schnell kennen  
+Den ```history``` Befehl lernt man schnell kennen  
 sowie das Zurückholen vorheriger Befehle mit der Pfeiltaste nach oben.
 
 Sitzt man neben einem Kollegen, der in der Historie mit der Pfeiltaste sucht,  
