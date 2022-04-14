@@ -10,7 +10,7 @@ sowie das Zurückholen vorheriger Befehle mit der Pfeiltaste nach oben.
 
 Sitzt man neben einem Kollegen, der in der Historie mit der Pfeiltaste sucht,  
 kann dies schnell zum Geduldspiel werden  
-und ein Tipp zu ```STRG + r``` wird nicht selten zur heiligen Offenbarung.
+und ein Tipp zu ```STRG + r``` wird nicht selten zur Heiligen Offenbarung.
 
 Doch auch hier fühlt es sich manchmal an wie beim Drehen eines Glücksrades  
 und schießt beim Suchen nicht selten übers Ziel hinaus.
