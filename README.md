@@ -1,6 +1,7 @@
-- https://linuxnews.de/2022/03/rsync-sidekick-rsyncs-dufter-kumpel/
-- https://linuxnews.de/2022/01/mdbook-pragmatisch-buecher-in-markdown-erstellen/
-- https://linuxnews.de/2021/09/erfahrungsberichte-meine-reise-mit-linux-von-sven-wick/
-- https://linuxnews.de/2021/08/rport-der-tcp-tunnelbauer/
-- https://linuxnews.de/2021/08/glow-der-pfiffige-cli-markdown-viewer/
-- https://linuxnews.de/2021/08/ssh-tools-den-alltag-mit-openssh-bequemer-machen/
+- <https://linuxnews.de/2022/04/mcfly-duesen-durch-die-shell-history/>
+- <https://linuxnews.de/2022/03/rsync-sidekick-rsyncs-dufter-kumpel/>
+- <https://linuxnews.de/2022/01/mdbook-pragmatisch-buecher-in-markdown-erstellen/>
+- <https://linuxnews.de/2021/09/erfahrungsberichte-meine-reise-mit-linux-von-sven-wick/>
+- <https://linuxnews.de/2021/08/rport-der-tcp-tunnelbauer/>
+- <https://linuxnews.de/2021/08/glow-der-pfiffige-cli-markdown-viewer/>
+- <https://linuxnews.de/2021/08/ssh-tools-den-alltag-mit-openssh-bequemer-machen/>
